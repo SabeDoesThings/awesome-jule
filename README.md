@@ -12,6 +12,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Installers](#installers)
 - [Libraries](#libraries)
 - [Tools & Utilities](#tools--utilities)
+- [Text Editors](#text-editors)
 - [Other](#other)
   - [Articles](#articles)
 
@@ -58,6 +59,12 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [``julefmt``](https://github.com/julelang/julefmt): Official source code formatter for the Jule programming language.
 - [``julevm``](https://codeberg.org/pgmtx/julevm): A dead-simple, cross-platform Jule version manager.
 - [``jpu``](https://github.com/adamperkowski/jpu): JuleProtonUp is a fast and lightweight ProtonUp alternative.
+
+## Text Editors
+
+- [``vscode-jule``](https://github.com/julelang/vscode-jule): Official Jule extension for Visual Studio Code.
+- [``jule.nvim``](https://github.com/julelang/jule.nvim): Official Jule extension for Neovim.
+- [``Sublime Jule``](https://github.com/SabeDoesThings/Sublime_Jule): A simple syntax highlighter for the Jule programming language
 
 ## Other
 
