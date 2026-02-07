@@ -71,3 +71,4 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 ### Articles
 
 - [Jule cheatsheet](https://pgmtx.neocities.org/articles/jule_cheatsheet)
+- [Memory-Safe Jule language emerges as C/C++ alternative](https://thenewstack.io/jule-open-source-programming-language)
