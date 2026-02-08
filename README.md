@@ -41,7 +41,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 ## Game Development
 
-- [``raylib``](https://github.com/wdvn/raylib) [1.7.0]: Jule bindings for [raylib](https://www.raylib.com), a simple and easy-to-use library to learn videogames programming
+- [``raylib``](https://github.com/wdvn/raylib) [0.1.7]: Jule bindings for [raylib](https://www.raylib.com), a simple and easy-to-use library to learn videogames programming
 - [``rayjule``](https://github.com/SabeDoesThings/rayjule) [0.2.0]: [Raylib](https://www.raylib.com) bindings for Jule v0.2.0
 
 ## Installers
